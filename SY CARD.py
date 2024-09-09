@@ -340,10 +340,9 @@ Name : Mohanad huj ali
  Github : https://github.com/jak939
  Youtube : Mohanad huj ali
 
-   """)
+""")
  print(logo)
- print(' H A C K E R S  M O H A N A D  HUJ ALI  
- HACK CARD CARACKER 
+ print(m H A C K E R S  M O H A N A D  HUJ ALI   HACK CARD CARACKER
  print(" [2]  Express ")
  print(" [3]  Hidemyass ")
  print(" [4]  Tn Mobile Sold ")

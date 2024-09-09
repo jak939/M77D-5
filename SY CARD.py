@@ -1,5 +1,5 @@
-#Coded By M4rkWalker ... And Copyright Ofc xD 
-#Youtube : M4rkWalker To Know Some Methods ABout Hacking/Cracking/Crading ....
+#Coded By muhanad huj ali ... And Copyright Ofc xD 
+#Youtube : muhanad huj ali  To Know Some Methods ABout Hacking/Cracking/Crading ....
 #Sate !
 #Sate !
 #Sate !
@@ -15,7 +15,7 @@ else:
 	os.system('clear')
 ######## Work ########
 def steam() :
- print("""  Steam Generator (c)Mohanad huj ali """)
+ print("""  Steam Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
    for az in range(int(zz)) :
@@ -38,7 +38,7 @@ def steam() :
  except : 
 	   	 pass
 def hma() :
- print("""  Hidemyass Generator (c)Mohanad huj ali """)
+ print("""  Hidemyass Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
    for az in range(int(zz)) :
@@ -60,7 +60,7 @@ def hma() :
  except : 
 	   	 pass
 def g2a() :
-  print("""  G2A Generator (c)Mohanad huj ali """)
+  print("""  G2A Generator Mohanad huj ali """)
   zz=input('Enter Number Keys > ')
   try :
    for az in range(int(zz)) :
@@ -83,7 +83,7 @@ def g2a() :
 	   	 pass
 	   	
 def gplay() :
- print("""  Googleplay Generator (c)Mohanad huj ali """)
+ print("""  Googleplay Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  int(zz)
  try :
@@ -108,7 +108,7 @@ def gplay() :
  except : 
 	   	 pass
 def express() :
- print("""  Express Vpn Generator (c)Mohanad huj ali """)
+ print("""  Express Vpn Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
    for az in range(int(zz)) :
@@ -125,7 +125,7 @@ def express() :
  except : 
 	   	 pass
 def karta() :
- print("""  7ammass Generator (c)Mohanad huj ali """)
+ print("""  7ammass Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
    for az in range(int(zz)) :
@@ -142,7 +142,7 @@ def karta() :
  except : 
 	   	 pass
 def Norton() :
- print("""  7ammass Generator (c)Mohanad huj ali """)
+ print("""  7ammass Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
    for az in range(int(zz)) :
@@ -160,7 +160,7 @@ def Norton() :
  except : 
          pass
 def avgantiv() :
- print("""  AVGAntivurus Generator (c)Mohanad huj ali """)
+ print("""  AVGAntivurus Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
    for az in range(int(zz)) :
@@ -186,7 +186,7 @@ def avgantiv() :
  except : 
          pass
 def esetss() :
- print("""  ESet Smart Security Generator (c)Mohanad huj ali \n\n  1) Keyz\n  2) Accounts  """)
+ print("""  ESet Smart Security Generator Mohanad huj ali \n\n  1) Keyz\n  2) Accounts  """)
  psyco = input('$ ')
  if psyco == '1':
   zz=input('Enter Number Keys > ')
@@ -235,7 +235,7 @@ def esetss() :
     print("What U doing !! Bakka ")
 
 def photoshop():
-  print(""" PhotoShop Cs6 Genrator (c)Mohanad huj ali """)
+  print(""" PhotoShop Cs6 Genrator Mohanad huj ali """)
   zz=input('Enter Number Keys > ')
   try:
     for az in range(int(zz)) :
@@ -261,7 +261,7 @@ def photoshop():
   except:
            pass
 def winkeyz():
-  print(""" WinDows Genrator (c)Mohanad huj ali """)
+  print(""" WinDows Genrator Mohanad huj ali """)
   zz=input('Enter Number Keys > ')
   try:
     for az in range(int(zz)) :
@@ -287,7 +287,7 @@ def winkeyz():
   except:
            pass 
 def amazon():
- print("""  Amazon Generator (c)Mohanad huj ali """)
+ print("""  Amazon Generator Mohanad huj ali """)
  zz=input('Enter Number Keys > ')
  try :
   for az in range(int(zz)) :
@@ -342,7 +342,8 @@ Name : Mohanad huj ali
 
    """)
  print(logo)
- print(' Hello '+getpass.getuser()+' : '+time.asctime( time.localtime(time.time()) ),'\n [!] Sometimes U Need To Use Vpn (Ban Or CountryNotAvaible)\n [1]  Steam ')
+ print(' H A C K E R S  M O H A N A D  HUJ ALI  
+ HACK CARD CARACKER 
  print(" [2]  Express ")
  print(" [3]  Hidemyass ")
  print(" [4]  Tn Mobile Sold ")

@@ -22,7 +22,7 @@ def steam() :
     urname = string.ascii_letters + string.digits
     urname1 = ''.join(choice(urname) for _ in range(5))
     taki = string.ascii_letters + string.digits
-    taki2 = ''.join(choic دهe(taki) for _ in range(5))
+    taki2 = ''.join(choice(taki) for _ in range(5))
     metsuha = string.ascii_letters + string.digits
     metsuha3 = ''.join(choice(metsuha) for _ in range(5)) 
     mark = urname1.upper() +('-')+ taki2.upper() +('-')+ metsuha3.upper()

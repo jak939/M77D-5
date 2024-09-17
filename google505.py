@@ -35,7 +35,7 @@ def gplay() :
    so=input("Continue ? [Y/N(yes/No)] > ")
    if so =='y' or so =='Y':
         main()
-  else:
+   else:
     exit()
  except : 
 	   	 pass
@@ -69,7 +69,7 @@ Name : Mohanad huj ali
  Github : https://github.com/jak939
  Youtube : Mohanad huj ali
    """)
-print(logo)
+ print(logo)
  print(' Mohanad huj ali   hack card '+getpass.getuser()+' : '+time.asctime( time.localtime(time.time()) ),'\n [!] Sometimes U Need To Use Vpn (Ban Or CountryNotAvaible)\n [1]  Steam ')
  print(" [1]  Google Play ")
 zack = input("$ ")

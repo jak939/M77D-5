@@ -72,6 +72,19 @@ Name : Mohanad huj ali
  print(logo)
  print(' Mohanad huj ali   hack card '+getpass.getuser()+' : '+time.asctime( time.localtime(time.time()) ),'\n [!] Sometimes U Need To Use Vpn (Ban Or CountryNotAvaible)\n [1]  Steam ')
  print(" [1]  Google Play ")
+	
 zack = input("$ ")
  elif zack == '1' :
     gplay()
+ elif zack == '69' :
+    abo()
+ else :
+     print(" Open Ur Eye !! Bakka -____- ")
+     exit()
+if __name__ == '__main__':
+	try:
+		main()
+	except KeyboardInterrupt:
+		print (" \nNani ?? ... R U Bakka ??")
+sys.exit()
+######## Hey U r ... Do u Like Pizza ?? xD ########

@@ -1,1 +1,10 @@
-
+import random 
+import string
+import  re, os,time,getpass,sys
+from platform import system
+from random import choice
+######## Clear Terminal Or cmd ########
+if os.name == 'nt':
+	os.system('cls')
+else:
+	os.system('clear')

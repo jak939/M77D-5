@@ -63,5 +63,6 @@ Name : Mohanad huj ali
  Mail Me : jak93936@gmail.com
  Github : https://github.com/jak939
  Youtube : Mohanad huj ali
-
    """)
+print(logo)
+ print(' Mohanad huj ali   hack card '+getpass.getuser()+' : '+time.asctime( time.localtime(time.time()) ),'\n [!] Sometimes U Need To Use Vpn (Ban Or CountryNotAvaible)\n [1]  Steam ')

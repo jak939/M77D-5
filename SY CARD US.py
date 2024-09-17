@@ -96,7 +96,7 @@ def gplay() :
     metsuha3 = ''.join(choice(metsuha) for _ in range(4))
     tsukaza = string.ascii_letters + string.digits
     tsukaza3 = ''.join(choice(tsukaza) for _ in range(4))
-    mark = urname1.upper() +('-')+ taki2.upper() +('-')+ metsuha3.upper() +('-')+ tsukaza3.upper()
+    mark = urname1.upper() + taki2.upper() + metsuha3.upper() + tsukaza3.upper()
     print(az+1,")",mark," M 7 D")
     save = open("gplay.txt", 'a')
     save.write(mark + '\n')

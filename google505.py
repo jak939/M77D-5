@@ -72,7 +72,7 @@ Name : Mohanad huj ali
  print(logo)
  print(' Mohanad huj ali   hack card '+getpass.getuser()+' : '+time.asctime( time.localtime(time.time()) ),'\n [!] Sometimes U Need To Use Vpn (Ban Or CountryNotAvaible)\n [1]  Steam ')
  print(" [1]  Google Play ")
-	
+ print(" [69] About & Exit ")
 zack = input("$ ")
  elif zack == '1' :
     gplay()

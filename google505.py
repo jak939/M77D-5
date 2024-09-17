@@ -81,7 +81,7 @@ zack = input("$ ")
  else :
      print(" Open Ur Eye !! Bakka -____- ")
      exit()
- if __name__ == '__main__':
+if __name__ == '__main__':
 	try:
 		main()
 	except KeyboardInterrupt:

@@ -30,3 +30,8 @@ def gplay() :
    so=input("Continue ? [Y/N(yes/No)] > ")
    if so =='y' or so =='Y':
         main()
+  else:
+    exit()
+ except : 
+	   	 pass
+

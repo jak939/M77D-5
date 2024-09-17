@@ -34,4 +34,16 @@ def gplay() :
     exit()
  except : 
 	   	 pass
-
+def abo():
+ print("""
+ Name : Mohanad huj ali
+ Country : SY
+ Facebook :Mohanad huj ali
+ Mail Me : jak93936@gmail.com
+ Github : https://github.com/jak939
+ Youtube : Mohanad huj ali """)
+ exit()
+######## Menu ########
+#Ps : Dont Change Logo 2 Say That u r The Coder ...Lean Python Its Free 
+def main():
+ logo = ("""

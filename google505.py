@@ -74,14 +74,14 @@ Name : Mohanad huj ali
  print(" [1]  Google Play ")
  print(" [69] About & Exit ")
 zack = input("$ ")
- elif zack == '1' :
+ if zack == '1' :
     gplay()
  elif zack == '69' :
     abo()
  else :
      print(" Open Ur Eye !! Bakka -____- ")
      exit()
-if __name__ == '__main__':
+ if __name__ == '__main__':
 	try:
 		main()
 	except KeyboardInterrupt:
